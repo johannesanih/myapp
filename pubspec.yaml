@@ -30,7 +30,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_bloc: ^7.0.0
   dio: ^5.1.1
   equatable: ^2.0.5
   flutter_bloc: ^8.1.1
